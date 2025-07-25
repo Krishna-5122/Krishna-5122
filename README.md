@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Final-year CS Student | 2025 Batch
+- 🎓 Final-year CS Student | 2026 Batch
 - 🔭 Currently working on: `Android`, `Python`, `Cloud Projects`
 - 🌱 Learning: `DevOps`, `Machine Learning`, `Quant Finance`
 - 🛠️ Tech Stack:  
