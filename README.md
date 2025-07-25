@@ -38,8 +38,8 @@
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://[www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/teja-m-v-k-204096301)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/teja-m-v-k-204096301"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mvkp122@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/Krishna-5122"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
